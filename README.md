@@ -1,4 +1,4 @@
-<img width="100%" src="![giphy](https://user-images.githubusercontent.com/71393659/113308162-93987700-930e-11eb-93ad-8595f34f6d34.gif)">
+<img width="100%" src="!https://user-images.githubusercontent.com/71393659/113308162-93987700-930e-11eb-93ad-8595f34f6d34.gif">
 
 - 📚I'm currently learning **JavaScript**
 
